@@ -1,6 +1,6 @@
-# my-python-training
+# python-training
 
-first python training session notes 
+python training session notes 
 
 ## session 1: 13 feb 2021
 ### lesson's content
