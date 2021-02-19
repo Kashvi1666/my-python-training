@@ -14,5 +14,9 @@ python training session notes
 - make a repository  
 - github collaboration 
 - cloning repository in vscode 
+- md stands for Markdown
+- Simple Text file to create a formatted html document
+
+## session 3  : 16 Feb 2021
 
 
