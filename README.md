@@ -53,8 +53,27 @@ python training session notes
         - cascadia: second argument or parameter for this shell script (use $2) 
     - echo = same as print statements (ex: echo "hello")
     - text file = save as name.txt (add to back of path, ex: ~/desktop/programming/cities/$cityname/$schoolname/grades/$grade/students.txt) 
-        - > creates a file, >> adds to existing file  
+        - ">" creates a file, ">>" adds to existing file  
 
 ## session 6: 22 feb 2021 
 ### lesson's content 
-- 
+- add numbers in shell script: total=$((englishmarks + mathmarks))
+- accepting/reading input from user: read -p "type question:" variable for answer
+    - ex: read -p "Enter Your Name: "  username
+          echo "Welcome $username!"
+- md = mark down (textual representation of a html file) 
+- "```" three accent marks = blank space
+    - "```" 
+    
+      "```" = black space (add text between - see below)
+```
+sh score.sh kashvi 94 98 
+``` 
+- "---" creates a line 
+
+---
+# HOMEWORK: 
+``` 
+homework one: compute exact age (years, months, days) 
+``` 
+
