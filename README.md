@@ -42,3 +42,19 @@ python training session notes
         - ex: bellevue/eastside/grades/grade1/
 - mkdir -p: create directory with the full given path (whether it exists or not) 
     - ex: mkdir -p bellevue/eastside/grades/grade1/
+
+## session 5: 21 feb 2021
+### lesson's content
+- shell script: simple program to run a batch of commands 
+    - $ = parameters, variables (ex: $1 = cityname, $cityname)
+    - sh = need to write before to execute a shell script (ex: sh dynamic.sh)
+    - run a command: (ex: sh dynamic.sh yarrow-point cascadia)
+        - yarrow-point: first argument or parameter for this shell script (use $1)
+        - cascadia: second argument or parameter for this shell script (use $2) 
+    - echo = same as print statements (ex: echo "hello")
+    - text file = save as name.txt (add to back of path, ex: ~/desktop/programming/cities/$cityname/$schoolname/grades/$grade/students.txt) 
+        - > creates a file, >> adds to existing file  
+
+## session 6: 22 feb 2021 
+### lesson's content 
+- 
