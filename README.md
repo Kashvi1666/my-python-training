@@ -71,6 +71,22 @@ sh score.sh kashvi 94 98
 ``` 
 - "---" creates a line 
 
+## session 7: 24 feb 2021 
+### lesson's content
+- GUI: graphical user interface (being able to visually interact with the computer, ex: make a file on the desktop vs terminal) 
+- CUI: character user interface (aka terminal interface, interact with the computer using commands)
+    - CLI: command line interface (means the same thing as CUI)
+- for loops: repetition, same as python for loops, numbers for amount
+    - ex: 
+``` 
+for i in 1 2 3 4 5 6 
+do
+  echo "take fruit number $i, and put it in the kitchen" 
+
+  mkdir -p ~/desktop/seattle/fruit-$i
+done
+``` 
+- -lt (less than condition), ex: -lt 0, if less than zero 
 ---
 # HOMEWORK: 
 ``` 

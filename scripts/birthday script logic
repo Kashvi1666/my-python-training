@@ -1,0 +1,25 @@
+input: 
+birth_year = 2005 
+birth_month = 12 
+birth_day = 16 
+
+logic #1: 
+- find age in years (subtract birth year from current year - ex: 2021-2001)
+        - computing current year: current_year=$(date '+%Y') 
+        - compute expected year: expected_year = current_year-birth_year 
+- find months until birthday (find absolute value of "current month - birth month" - ex: 2-12=10)
+        - computing current month: current_month=$(date '+%m')
+        - compute expected month: expected_month = current_month-birth_month 
+- find days between day born in birth month and day of this month (absolute value of "day in the month - birth day" - ex: 22-16)
+        - computing current day: current_date=$(date '+%d')
+        -  
+- logic implementation check: 
+    - sample imput for Kashvi: 
+    expected_year = 2021-2005 = 16
+        expected_year = expected_year-1 (only if the month is negative)
+    expected_month = 2-12 = -10 
+        if the month is negative, then subtract current month from birth month and subtract one from expected year 
+
+expected output: 
+your exact age is: 15 years, 2 months, and 8 days 
+
