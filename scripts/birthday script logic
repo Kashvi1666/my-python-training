@@ -12,7 +12,9 @@ logic #1:
         - compute expected month: expected_month = current_month-birth_month 
 - find days between day born in birth month and day of this month (absolute value of "day in the month - birth day" - ex: 22-16)
         - computing current day: current_date=$(date '+%d')
-        -  
+        - jan 01 - 31, feb 02 - 28/29, march 03 - 31, april 04 - 30, may 05 - 31, june 06 - 30, july 07 - 31, august 08 - 31, september 09 - 30, october 10 - 31, november 11 - 30, december 12 - 31 
+        - leap year: 1/4 years, 
+        
 - logic implementation check: 
     - sample imput for Kashvi: 
     expected_year = 2021-2005 = 16

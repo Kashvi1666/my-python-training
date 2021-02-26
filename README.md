@@ -87,6 +87,11 @@ do
 done
 ``` 
 - -lt (less than condition), ex: -lt 0, if less than zero 
+
+## session 8: 25 feb 2021 
+- leap year calculations 
+- modulo concept "%" (division/remainder/etc.)
+- nested if loops and multiple loops practice
 ---
 # HOMEWORK: 
 ``` 
