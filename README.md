@@ -87,14 +87,24 @@ do
 done
 ``` 
 - -lt (less than condition), ex: -lt 0, if less than zero 
+- -gt (greater than condition): ex: -gt 0, if greater than zero 
+- -eq (equal to condition), ex: -eq 0, if equal to zero 
 
 ## session 8: 25 feb 2021 
 - leap year calculations 
 - modulo concept "%" (division/remainder/etc.)
 - nested if loops and multiple loops practice
+
+## session 9: 1 mar 2021 
+- \t = tab, \n = next line 
+- for comparing string variables, if then, use = not -eq 
+
 ---
 # HOMEWORK: 
 ``` 
-homework one: compute exact age (years, months, days) 
+homework one: compute an exact age (y/m/d)
+
+homework two: create an airline ticket bill & boarding pass per passenger 
 ``` 
+
 

@@ -15,9 +15,9 @@ echo "5. Figs $p5"
 echo "6. Passion fruits $p6" 
 
 products_cart="Here are the items in your cart: \n "
-products_cart="$products_cart ===============================================================================\n"
-products_cart="$products_cart $Product Name \t\t\t\t Qty \t Price \t Total\n"
-products_cart="$products_cart ===============================================================================\n"
+products_cart="$products_cart===============================================================================\n"
+products_cart="$products_cart Product Name \t\t\t\t Qty \t Price \t Total\n"
+products_cart="$products_cart===============================================================================\n"
 unit_price=0
 total_bill_amount=0
 
@@ -70,7 +70,7 @@ done
 
 echo "$products_cart" 
 echo "==================================================================\n"
-echo "Total Bill Amount : $total_bill_amount "
+echo "Total Bill Amount : $ $total_bill_amount "
 echo "==================================================================\n"
 
   
