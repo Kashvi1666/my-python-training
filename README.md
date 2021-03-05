@@ -99,6 +99,14 @@ done
 - \t = tab, \n = next line 
 - for comparing string variables, if then, use = not -eq 
 
+## session 10: 4 mar 2021 
+- functions 
+    - you give an input, it performs a set of actions, gives an output 
+    - consists of a name, parameters and a return statement 
+    - you can also make a function within a function 
+    - without defining a function you can not use it 
+    - when a function returns an output we can store it in a variable 
+
 ---
 # HOMEWORK: 
 ``` 
