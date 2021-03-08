@@ -107,12 +107,18 @@ done
     - without defining a function you can not use it 
     - when a function returns an output we can store it in a variable 
 
+## session 11: 7 mar 2021 
+- caller function: buy_applejuice is a caller function, which calls the grind_anything function 
+    - grind_anything is the called function
+
 ---
 # HOMEWORK: 
 ``` 
 homework one: compute an exact age (y/m/d)
 
 homework two: create an airline ticket bill & boarding pass per passenger 
+
+homework three: create a pseudocode for above 
 ``` 
 
 

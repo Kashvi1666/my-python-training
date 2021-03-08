@@ -25,7 +25,7 @@ homework two: create an airline ticket bill & boarding pass per passenger
         - ask user to confirm to print 
     - print invidiual boarding passes 
         - passenger names 
-        - passenger seats (randomized?)
+        - passenger seats
         - source & destination 
         - flight leaving/arrival time + date 
 
