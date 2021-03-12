@@ -56,4 +56,11 @@ do
     passenger_count=$((passenger_count + 1))
 done
 
-compute_ticket_cost $passenger_list
+for passgr in "${passenger_list[@]}"
+do
+    printf '%s\n' "${passgr[@]}"
+   # or do whatever with individual element of the array
+done
+
+
+#compute_ticket_cost $passenger_list

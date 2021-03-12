@@ -122,3 +122,11 @@ homework three: create a pseudocode for above
 ``` 
 
 
+Home Work :
+
+simple.sh :  8/10 : 
+
+while-loop.sh :  2/10 : 
+
+
+# Walking on Sand : Imprints will be longer
