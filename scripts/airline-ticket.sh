@@ -12,6 +12,11 @@ passenger_id=""
 passenger_econtact=""
 passenger_meal=""
 
+compute_ticket_cost() {
+    passenger_items=$0
+    echo $passenger_items 
+}
+
 collect_individual_passenger_info(){
     read -p "enter passenger name:" passenger_name
     read -p "enter passenger age:" passenger_age
@@ -51,3 +56,4 @@ do
     passenger_count=$((passenger_count + 1))
 done
 
+compute_ticket_cost $passenger_list
