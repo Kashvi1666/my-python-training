@@ -119,14 +119,23 @@ homework one: compute an exact age (y/m/d)
 homework two: create an airline ticket bill & boarding pass per passenger 
 
 homework three: create a pseudocode for above 
+
+homework four: list out an understanding (numeric rating) for each exercise completed ; check below 
+
 ``` 
-
-
-Home Work :
-
-simple.sh :  8/10 : 
-
-while-loop.sh :  2/10 : 
+# UNDERSTANDING CHECK: 
+- airline-ticket.sh : 8/10 (functions, arrays, while loops)
+- batch-school.sh : 10/10 (for loops and directories)
+- birthday.sh : 10/10 (more complicated math/logic)
+- daylogic.sh : 10/10 (more math functions/logic)
+- dynamic.sh :  10/10 (more making/moving directories)
+- final.sh : 10/10 (inputs, paths, moving direc.)
+- grocery-bill.sh : 9/10 (for loops, harder logic)
+- input.sh : 10/10 (recieving/storing user inputs)
+- modulo.sh : 10/10 (nested if else statements)
+- nk-notes.sh : 9.5/10 (if statements and logic)
+- score.sh : 10/10 (variables, math functions)
+- simple.sh :  10/10 (printing commands, directories)
 
 
 # Walking on Sand : Imprints will be longer
